@@ -1,0 +1,4 @@
+https://unijobs.me {
+	root /srv
+	gzip
+}
